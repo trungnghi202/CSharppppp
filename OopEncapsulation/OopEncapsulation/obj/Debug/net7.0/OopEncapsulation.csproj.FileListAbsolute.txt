@@ -1,0 +1,15 @@
+/Users/phantrungnghi/Projects/CSharppppp/OopEncapsulation/OopEncapsulation/bin/Debug/net7.0/OopEncapsulation
+/Users/phantrungnghi/Projects/CSharppppp/OopEncapsulation/OopEncapsulation/bin/Debug/net7.0/OopEncapsulation.deps.json
+/Users/phantrungnghi/Projects/CSharppppp/OopEncapsulation/OopEncapsulation/bin/Debug/net7.0/OopEncapsulation.runtimeconfig.json
+/Users/phantrungnghi/Projects/CSharppppp/OopEncapsulation/OopEncapsulation/bin/Debug/net7.0/OopEncapsulation.dll
+/Users/phantrungnghi/Projects/CSharppppp/OopEncapsulation/OopEncapsulation/bin/Debug/net7.0/OopEncapsulation.pdb
+/Users/phantrungnghi/Projects/CSharppppp/OopEncapsulation/OopEncapsulation/obj/Debug/net7.0/OopEncapsulation.csproj.AssemblyReference.cache
+/Users/phantrungnghi/Projects/CSharppppp/OopEncapsulation/OopEncapsulation/obj/Debug/net7.0/OopEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phantrungnghi/Projects/CSharppppp/OopEncapsulation/OopEncapsulation/obj/Debug/net7.0/OopEncapsulation.AssemblyInfoInputs.cache
+/Users/phantrungnghi/Projects/CSharppppp/OopEncapsulation/OopEncapsulation/obj/Debug/net7.0/OopEncapsulation.AssemblyInfo.cs
+/Users/phantrungnghi/Projects/CSharppppp/OopEncapsulation/OopEncapsulation/obj/Debug/net7.0/OopEncapsulation.csproj.CoreCompileInputs.cache
+/Users/phantrungnghi/Projects/CSharppppp/OopEncapsulation/OopEncapsulation/obj/Debug/net7.0/OopEncapsulation.dll
+/Users/phantrungnghi/Projects/CSharppppp/OopEncapsulation/OopEncapsulation/obj/Debug/net7.0/refint/OopEncapsulation.dll
+/Users/phantrungnghi/Projects/CSharppppp/OopEncapsulation/OopEncapsulation/obj/Debug/net7.0/OopEncapsulation.pdb
+/Users/phantrungnghi/Projects/CSharppppp/OopEncapsulation/OopEncapsulation/obj/Debug/net7.0/OopEncapsulation.genruntimeconfig.cache
+/Users/phantrungnghi/Projects/CSharppppp/OopEncapsulation/OopEncapsulation/obj/Debug/net7.0/ref/OopEncapsulation.dll

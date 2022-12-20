@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{0D2ECC31-187D-47A1-86E7-30F44979B71B}|Default">
-  <MonoDevelop.Ide.ItemProperties.OopEncapsulationCont FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.OopEncapsulationCont FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OopEncapsulationCont/Program.cs">
+    <Files>
+      <File FileName="OopEncapsulationCont/Program.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OopEncapsulationCont" expanded="True">
+            <Node name="OopEncapsulationCont" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
