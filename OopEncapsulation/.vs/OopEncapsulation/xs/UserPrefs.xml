@@ -1,10 +1,13 @@
 ﻿<Properties StartupConfiguration="{DFCED882-1A5A-44DC-B0F0-6C185E2C1124}|Default">
   <MonoDevelop.Ide.ItemProperties.OopPolymorphismOverloadding FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="OopEncapsulation/Human.cs">
+  <MonoDevelop.Ide.ItemProperties.OopEncapsulation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="OopEncapsulation/Human.cs" Line="16" Column="58" IsPinned="True" />
       <File FileName="OopPolymorphismOverloadding/Program.cs" />
@@ -22,7 +25,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.OopEncapsulation PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
