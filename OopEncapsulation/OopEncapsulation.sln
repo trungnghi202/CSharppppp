@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1704.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopEncapsulation", "OopEncapsulation\OopEncapsulation.csproj", "{DFCED882-1A5A-44DC-B0F0-6C185E2C1124}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPolymorphismOverloadding", "OopPolymorphismOverloadding\OopPolymorphismOverloadding.csproj", "{3DF6566B-A4ED-46B8-B4F3-B8B15AFB5DA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DFCED882-1A5A-44DC-B0F0-6C185E2C1124}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFCED882-1A5A-44DC-B0F0-6C185E2C1124}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFCED882-1A5A-44DC-B0F0-6C185E2C1124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF6566B-A4ED-46B8-B4F3-B8B15AFB5DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF6566B-A4ED-46B8-B4F3-B8B15AFB5DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF6566B-A4ED-46B8-B4F3-B8B15AFB5DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF6566B-A4ED-46B8-B4F3-B8B15AFB5DA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
